@@ -19,7 +19,7 @@ def exec(url):
 
 
 if __name__ == "__main__":
-  print('''Nacos未授权敏感操作
+  print('''Nacos未授权敏感操作漏洞
 usage: python nacos.py url
 ''')
   if(len(sys.argv)>1):
